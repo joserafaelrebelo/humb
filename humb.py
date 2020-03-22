@@ -1,5 +1,6 @@
 import os
 
+#pre alpha 1.0 by ed
 
 def listArq():
     listaArq = []
